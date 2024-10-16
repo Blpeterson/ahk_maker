@@ -1,4 +1,4 @@
-# ahk_maker
+# AHK Quick Maker
 An AHK to make macros, so you can call them at any time
 
 The idea is for basic repetitive clicks and keyboard strokes, to start the program, let it know whether you would like to create a new one or run an old one.
